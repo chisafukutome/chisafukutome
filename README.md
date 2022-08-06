@@ -26,6 +26,7 @@
 </div>
 
 <div align=center>
+<br>
 
 [Portfolio](#) | [LinkedIn](https://devpost.com/chisafukutome) | [DevPost](https://devpost.com/chisafukutome)
 
