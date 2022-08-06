@@ -22,8 +22,8 @@
 <!-- Header -->
 <div id="header" align="center">
 <h1>Hi! I'm Chisa Fukutome</h1><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100" height="auto">
+<a align="center" href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a>
 </div>
-<a style="display: block;" align="center" href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a>
 
 <!-- Social Media Information -->
 <div id="social-media">
