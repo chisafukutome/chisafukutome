@@ -25,14 +25,7 @@
 <a align="center" href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a>
 </div>
 
-<!-- Social Media Information -->
-<div id="social-media">
-<ul style="margin-top: 3%; text-align: center; ">
-<li href="#" class="social-media-links" style="background-color: #ff5c58"><a >Portfolio</a></li>
-<li href="https://www.linkedin.com/in/chisafukutome/" class="social-media-links" style="background-color: #0077b5;"><a >LinkedIn</a></li>
-<li href="https://devpost.com/chisafukutome" class="social-media-links" style="background-color: #003E54"><a>DevPost</a></li>
-</ul>
-</div>
+[Portfolio](#) | [LinkedIn](https://devpost.com/chisafukutome) | [DevPost](https://devpost.com/chisafukutome)
 
 <!-- TODO: Add GitHub projects into READ.ME -->
 <!-- Top Projects -->
