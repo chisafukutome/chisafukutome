@@ -25,7 +25,11 @@
 <a align="center" href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a>
 </div>
 
+<div align=center>
+
 [Portfolio](#) | [LinkedIn](https://devpost.com/chisafukutome) | [DevPost](https://devpost.com/chisafukutome)
+
+</div>
 
 <!-- TODO: Add GitHub projects into READ.ME -->
 <!-- Top Projects -->
