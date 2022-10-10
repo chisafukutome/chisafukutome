@@ -1,28 +1,7 @@
-<!-- CSS styling -->
-<style>
-
-  .social-media-links {
-    display: inline;
-    margin: 5%;
-    padding: 1.5%;
-    border-radius: 5%;
-  }
-
-  .social-media-links a {
-    color: white;
-    text-decoration: none;
-  }
-
-  ul {
-    list-style-type: none;
-  }
-</style>
-<!-- End CSS styling -->
-
 <!-- Header -->
 <div id="header" align="center">
 <h1>Hi! I'm Chisa Fukutome</h1><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100" height="auto">
-<a align="center" href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a>
+<br><a align="center" href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a>
 </div>
 
 <div align=center>
@@ -30,17 +9,6 @@
 
 [Portfolio](#) | [LinkedIn](https://devpost.com/chisafukutome) | [DevPost](https://devpost.com/chisafukutome)
 
-</div>
-
-<!-- TODO: Add GitHub projects into READ.ME -->
-<!-- Top Projects -->
-<div id="projects">
-<h2>Top Projects</h2>
-<ul class="pyton-list">
-<h3>Python Projects</h3>
-<li></li>
-</ul>
-<ul class="java-list"></ul>
 </div>
 
 <!-- GitHub Stats -->
