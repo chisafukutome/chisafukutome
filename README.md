@@ -7,7 +7,7 @@
 <div align=center>
 <br>
 
-[Portfolio](#) | [LinkedIn](https://devpost.com/chisafukutome) | [DevPost](https://devpost.com/chisafukutome)
+[Portfolio](https://chisa-portfolio-website.herokuapp.com/) | [LinkedIn](https://www.linkedin.com/in/chisafukutome/) | [DevPost](https://devpost.com/chisafukutome)
 
 </div>
 
